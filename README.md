@@ -1,4 +1,4 @@
-# ADAPool
+# KryptoSolid Pool
 Information about the Krypto Solid ADA pool
 
 This pool is hosted on hardened dedicated servers with really beefed up specifications. Without going into specifics, the setup is as below:
